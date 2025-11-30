@@ -186,4 +186,4 @@ if st.button("🚀 Predict Attack"):
     
 
 
-st.markdown("<p class='footer-text'>Developed for Final Year Project | Intrusion Detection System</p>", unsafe_allow_html=True)
+# st.markdown("<p class='footer-text'>Developed for Final Year Project | Intrusion Detection System</p>", unsafe_allow_html=True)
